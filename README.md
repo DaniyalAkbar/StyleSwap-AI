@@ -16,7 +16,7 @@ StyleSwap AI is a cutting-edge virtual try-on solution that leverages advanced A
 
 ### Output Result
 
-![Output](output_result.png)
+![output_result](output_result.png)
 
 ## Prerequisites
 
