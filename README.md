@@ -14,6 +14,10 @@ StyleSwap AI is a cutting-edge virtual try-on solution that leverages advanced A
 -   Reduction in return rates and improved customer satisfaction
 -   Cost and time savings for clothing brands
 
+### Output Result
+
+![Output](output_result.png)
+
 ## Prerequisites
 
 ### Hardware Requirements:
@@ -96,14 +100,14 @@ For ease of use, especially for those without access to high-performance GPUs, I
 SAM is a powerful image segmentation model developed by Meta AI. It provides versatile and accurate image segmentation capabilities crucial for our virtual try-on process.
 
 ![SAM Model](sam.jpg)
-Source: ![Meta AI SAM](https://github.com/facebookresearch/segment-anything)
+Source: [Meta AI SAM](https://github.com/facebookresearch/segment-anything)
 
 ### Detectron2
 
 Detectron2, developed by Facebook AI Research, is a state-of-the-art object detection and segmentation library. In StyleSwap AI, it's used for advanced image processing tasks, enhancing the accuracy of our virtual try-ons.
 
 ![Detectron2](detectron2.png)
-Source: ![Meta AI Detectron2](https://github.com/facebookresearch/detectron2)
+Source: [Meta AI Detectron2](https://github.com/facebookresearch/detectron2)
 
 ## Limitations and Considerations
 
@@ -114,7 +118,7 @@ Source: ![Meta AI Detectron2](https://github.com/facebookresearch/detectron2)
 
 ## Project Video Presentation
 
-Link: ![MS Project Presentation](https://khiibaedu-my.sharepoint.com/:v:/g/personal/d_akbar_25363_khi_iba_edu_pk/ER5PyBJkT2tMoM8LEzpRuhkB6RdATEMvDolDa-oPBR1k8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gUc5rU)
+Link: [MS Project Presentation](https://khiibaedu-my.sharepoint.com/:v:/g/personal/d_akbar_25363_khi_iba_edu_pk/ER5PyBJkT2tMoM8LEzpRuhkB6RdATEMvDolDa-oPBR1k8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gUc5rU)
 
 ## Contributing
 
@@ -122,4 +126,4 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## Contact
 
-For any queries or support, please open an issue in this repository or contact ![Email](mailto:daniyalakbar1217@gmail.com).
+For any queries or support, please open an issue in this repository or contact [Email](mailto:daniyalakbar1217@gmail.com).
