@@ -1,8 +1,34 @@
 # StyleSwap AI: Advanced Virtual Try-On Solution
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+    - [Architecture Diagram](#architecture-diagram)
+    - [Key Features](#key-features)
+    - [Output Result](#output-result)
+2. [Prerequisites](#prerequisites)
+    - [Hardware Requirements](#hardware-requirements)
+    - [Software Requirements](#software-requirements)
+    - [Key Dependencies](#key-dependencies)
+3. [Installation](#installation)
+4. [Model Checkpoints](#model-checkpoints)
+5. [Usage](#usage)
+6. [Google Colab](#google-colab)
+7. [Key Components](#key-components)
+    - [Segment Anything Model (SAM)](#segment-anything-model-sam)
+    - [Detectron2](#detectron2)
+8. [Limitations and Considerations](#limitations-and-considerations)
+9. [Project Video Presentation](#project-video-presentation)
+10. [Contributing](#contributing)
+11. [Contact](#contact)
+
 ## Project Overview
 
 StyleSwap AI is a cutting-edge virtual try-on solution that leverages advanced AI techniques to revolutionize the online shopping experience. By allowing customers to visualize clothing items on their own images, it provides a realistic and accurate representation of fit and style.
+
+### Architecture Diagram
+
+![architecture](LDM.png)
 
 [StyleSwap AI Demo](https://khiibaedu-my.sharepoint.com/:v:/g/personal/d_akbar_25363_khi_iba_edu_pk/ER5PyBJkT2tMoM8LEzpRuhkB6RdATEMvDolDa-oPBR1k8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gUc5rU)
 
