@@ -22,11 +22,15 @@
 10. [Contributing](#contributing)
 11. [Contact](#contact)
 
-## Project Overview
+## Project Summary
 
 StyleSwap AI is a cutting-edge virtual try-on solution that leverages advanced AI techniques to revolutionize the online shopping experience. By allowing customers to visualize clothing items on their own images, it provides a realistic and accurate representation of fit and style.
 
-### Architecture Diagram
+## Novelty of the Project
+
+StyleSwap AI brings innovation to virtual try-on technology through its unique combination of advanced AI models. It uses Latent Diffusion AI for realistic image generation, DensePose for accurate body mapping, and cutting-edge image processing with SAM and Detectron2. This blend of technologies creates highly realistic and precise virtual try-ons, surpassing traditional methods in both visual quality and fit prediction. Additionally, StyleSwap AI's ability to generate AI-powered marketing imagery reduces the need for physical photoshoots, offering significant cost and time savings for retailers while enhancing the online shopping experience for customers.
+
+### Architecture Design Diagram
 
 ![architecture](LDM.png)
 
